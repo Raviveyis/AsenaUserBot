@@ -17,10 +17,12 @@
   "env": {
     "API_KEY": {
       "description": "Bu değeri my.telegram.org adresinden alın.",
+      "value": "20141455"
       "required": true
     },
     "API_HASH": {
       "description": "Bu değeri my.telegram.org adresinden alın.",
+      "value": "994bb3655490bc9e9d9af6419cdc086a" 
       "required": true
     },
     "PLUGIN_CHANNEL_ID": {
@@ -37,6 +39,7 @@
     },
     "STRING_SESSION": {
       "description": "python3 GenerateStringSession.py dosyasını yerel olarak çalıştırarak bu değeri alın.",
+      "value": "AgDBLapF5JaI5j1Q6c9ZX__g6tiq2K6Tx2J-m_A55RCGQSRg2qwH7cgY5_nojY25Wr3G_Njk0kWGnwezZz7CblHXL9nPMludO-ZRQkNQaFkhrBY71ayKESxC6VVAxXPhb5O7yRnyYbip5S_vSq3tkdblckf0uIwOlkcGabNsTJ4xPkcDEFjUSRBu7NBfQxjXZx9FU1jQ6WHXcdNtOEhk3nV7Z5EvuNkHwZFHGL0ga3HQbOXs7Q8eam0chWSg3XRh64L6G-qNkkZxt3TFeEzs-7q-iBmAW-1iWn8enTs3UqhUb8uFzHu8Nr7SikO4ilniFzMWckfMzZt6ZKucmqmTOb9tAAAAAVs0JpQA"
       "required": true
     },
     "HEROKU_MEMEZ": {
@@ -46,10 +49,11 @@
     },
     "HEROKU_APIKEY": {
       "description": "Heroku API Key, 'https://dashboard.heroku.com/account' adresinden alın.",
-      "value": ""
+      "value": "rnd_v1LsxCm0jGaV7qEwG9a6F3MbzS5P"
     },
     "HEROKU_APPNAME": {
       "description": "Heroku uygulama adını buraya ekleyin. UserBot güncellemelerine yardımcı olur.",
+      "value": "Telegram"
       "required": true
     },
     "UPSTREAM_REPO_URL": {
